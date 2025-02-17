@@ -1,0 +1,878 @@
+PATNO	COHORT_DEFINITION	snp_combi
+10874	Prodromal	rs2583990_AG - rs356224_AG
+12224	Prodromal	rs2583990_AG - rs356224_GG
+12499	Prodromal	rs2583990_AG - rs356224_GG
+12593	Prodromal	rs2583990_AA - rs356224_AG
+13039	Prodromal	rs2583990_GG - rs356224_AG
+13424	Prodromal	rs2583990_GG - rs356224_AG
+14281	Prodromal	rs2583990_GG - rs356224_AG
+14331	Prodromal	rs2583990_AG - rs356224_GG
+14426	Prodromal	rs2583990_GG - rs356224_AG
+15761	Prodromal	rs2583990_GG - rs356224_GG
+16644	Prodromal	rs2583990_GG - rs356224_AA
+16785	Prodromal	rs2583990_AG - rs356224_GG
+17608	Prodromal	rs2583990_AG - rs356224_GG
+18026	Prodromal	rs2583990_GG - rs356224_GG
+18491	Prodromal	rs2583990_GG - rs356224_AG
+18502	Prodromal	rs2583990_AG - rs356224_GG
+18567	Prodromal	rs2583990_GG - rs356224_AG
+3000	Healthy Control	rs2583990_GG - rs356224_GG
+3001	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3002	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3003	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3004	Healthy Control	rs2583990_AG - rs356224_GG
+3008	Healthy Control	rs2583990_GG - rs356224_GG
+3009	Healthy Control	rs2583990_AG - rs356224_GG
+3010	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3011	Healthy Control	rs2583990_AG - rs356224_GG
+3013	Healthy Control	rs2583990_GG - rs356224_AG
+3016	Healthy Control	rs2583990_AG - rs356224_AG
+3018	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3021	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3023	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3024	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3028	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3029	Healthy Control	rs2583990_GG - rs356224_AG
+3051	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3053	Healthy Control	rs2583990_GG - rs356224_GG
+3054	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3055	Healthy Control	rs2583990_GG - rs356224_GG
+3057	Healthy Control	rs2583990_AG - rs356224_AG
+3060	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3061	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3062	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3064	Healthy Control	rs2583990_GG - rs356224_GG
+3067	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3069	Healthy Control	rs2583990_AA - rs356224_AG
+3071	Healthy Control	rs2583990_GG - rs356224_GG
+3072	Healthy Control	rs2583990_GG - rs356224_AG
+3073	Healthy Control	rs2583990_GG - rs356224_GG
+3074	Healthy Control	rs2583990_AG - rs356224_GG
+3075	Healthy Control	rs2583990_AG - rs356224_GG
+3077	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3078	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3085	Healthy Control	rs2583990_AG - rs356224_GG
+3086	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3087	Healthy Control	rs2583990_GG - rs356224_GG
+3088	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3089	Parkinson's Disease	rs2583990_AG - rs356224_AA
+3100	Healthy Control	rs2583990_AG - rs356224_GG
+3104	Healthy Control	rs2583990_GG - rs356224_AG
+3106	Healthy Control	rs2583990_AG - rs356224_GG
+3108	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3109	Healthy Control	rs2583990_GG - rs356224_AG
+3111	Parkinson's Disease	rs2583990_AA - rs356224_GG
+3112	Healthy Control	rs2583990_AG - rs356224_GG
+3114	Healthy Control	rs2583990_GG - rs356224_GG
+3115	Healthy Control	rs2583990_AG - rs356224_AG
+3119	Parkinson's Disease	rs2583990_AA - rs356224_GG
+3120	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3122	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3123	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3125	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3130	Parkinson's Disease	rs2583990_AG - rs356224_AA
+3132	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3151	Healthy Control	rs2583990_GG - rs356224_AG
+3156	Healthy Control	rs2583990_GG - rs356224_AG
+3157	Healthy Control	rs2583990_AG - rs356224_AG
+3160	Healthy Control	rs2583990_AG - rs356224_AG
+3161	Healthy Control	rs2583990_GG - rs356224_GG
+3165	Healthy Control	rs2583990_GG - rs356224_AA
+3168	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3169	Healthy Control	rs2583990_GG - rs356224_GG
+3171	Healthy Control	rs2583990_GG - rs356224_AG
+3172	Healthy Control	rs2583990_AG - rs356224_AG
+3173	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3174	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3176	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3180	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3181	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3184	Parkinson's Disease	rs2583990_AA - rs356224_GG
+3186	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3188	Healthy Control	rs2583990_AG - rs356224_GG
+3191	Healthy Control	rs2583990_GG - rs356224_AA
+3200	Healthy Control	rs2583990_AA - rs356224_GG
+3201	Healthy Control	rs2583990_GG - rs356224_GG
+3203	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3205	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3206	Healthy Control	rs2583990_AA - rs356224_GG
+3207	Parkinson's Disease	rs2583990_AA - rs356224_GG
+3215	Healthy Control	rs2583990_AG - rs356224_AG
+3216	Healthy Control	rs2583990_GG - rs356224_GG
+3217	Healthy Control	rs2583990_AA - rs356224_GG
+3218	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3219	Healthy Control	rs2583990_AG - rs356224_GG
+3220	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3221	Healthy Control	rs2583990_GG - rs356224_GG
+3222	Healthy Control	rs2583990_GG - rs356224_GG
+3223	Parkinson's Disease	rs2583990_AA - rs356224_AG
+3224	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3227	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3229	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3230	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3231	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3234	Parkinson's Disease	rs2583990_AA - rs356224_GG
+3237	Healthy Control	rs2583990_GG - rs356224_AG
+3257	Healthy Control	rs2583990_AG - rs356224_GG
+3260	Healthy Control	rs2583990_GG - rs356224_AG
+3264	Healthy Control	rs2583990_GG - rs356224_AG
+3269	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3270	Healthy Control	rs2583990_GG - rs356224_GG
+3271	Healthy Control	rs2583990_AG - rs356224_AG
+3274	Healthy Control	rs2583990_AG - rs356224_AG
+3276	Healthy Control	rs2583990_AG - rs356224_GG
+3277	Healthy Control	rs2583990_GG - rs356224_GG
+3280	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3300	Healthy Control	rs2583990_GG - rs356224_GG
+3301	Healthy Control	rs2583990_GG - rs356224_AA
+3305	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3310	Healthy Control	rs2583990_GG - rs356224_AG
+3312	Parkinson's Disease	rs2583990_AA - rs356224_GG
+3316	Healthy Control	rs2583990_AG - rs356224_AG
+3318	Healthy Control	rs2583990_AG - rs356224_GG
+3320	Healthy Control	rs2583990_AG - rs356224_AG
+3325	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3327	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3350	Healthy Control	rs2583990_AG - rs356224_GG
+3351	Healthy Control	rs2583990_GG - rs356224_AA
+3353	Healthy Control	rs2583990_GG - rs356224_GG
+3354	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3355	Healthy Control	rs2583990_AG - rs356224_GG
+3357	Healthy Control	rs2583990_GG - rs356224_AG
+3358	Healthy Control	rs2583990_GG - rs356224_AG
+3359	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3361	Healthy Control	rs2583990_GG - rs356224_AG
+3362	Healthy Control	rs2583990_AG - rs356224_AG
+3363	Healthy Control	rs2583990_AA - rs356224_AG
+3365	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3366	Parkinson's Disease	rs2583990_AG - rs356224_AA
+3367	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3368	Healthy Control	rs2583990_GG - rs356224_AG
+3369	Healthy Control	rs2583990_AG - rs356224_GG
+3370	Healthy Control	rs2583990_GG - rs356224_GG
+3371	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3372	Parkinson's Disease	rs2583990_AA - rs356224_AG
+3373	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3374	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3377	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3378	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3383	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3389	Healthy Control	rs2583990_AG - rs356224_AG
+3390	Healthy Control	rs2583990_GG - rs356224_GG
+3392	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3400	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3401	Healthy Control	rs2583990_GG - rs356224_GG
+3404	Healthy Control	rs2583990_GG - rs356224_AG
+3405	Healthy Control	rs2583990_GG - rs356224_AG
+3406	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3407	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3409	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3410	Healthy Control	rs2583990_GG - rs356224_AG
+3411	Healthy Control	rs2583990_GG - rs356224_AA
+3414	Healthy Control	rs2583990_GG - rs356224_GG
+3415	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3417	Parkinson's Disease	rs2583990_AG - rs356224_AA
+3418	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3419	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3420	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3422	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3423	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3424	Healthy Control	rs2583990_GG - rs356224_AG
+3428	Healthy Control	rs2583990_AG - rs356224_AG
+3429	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3431	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3432	Parkinson's Disease	rs2583990_AA - rs356224_GG
+3434	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3435	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3439	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3443	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3444	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3445	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3448	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3450	Healthy Control	rs2583990_GG - rs356224_AA
+3451	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3452	Healthy Control	rs2583990_AG - rs356224_AG
+3453	Healthy Control	rs2583990_AG - rs356224_AG
+3454	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3457	Healthy Control	rs2583990_AA - rs356224_AG
+3458	Healthy Control	rs2583990_AG - rs356224_GG
+3459	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3460	Healthy Control	rs2583990_GG - rs356224_GG
+3461	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3464	Healthy Control	rs2583990_GG - rs356224_AA
+3466	Healthy Control	rs2583990_AG - rs356224_GG
+3467	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3468	Healthy Control	rs2583990_GG - rs356224_GG
+3469	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3470	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3472	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3473	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3475	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3479	Healthy Control	rs2583990_AA - rs356224_GG
+3480	Healthy Control	rs2583990_GG - rs356224_GG
+3481	Healthy Control	rs2583990_AG - rs356224_AG
+3500	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3501	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3503	Healthy Control	rs2583990_AG - rs356224_AG
+3515	Healthy Control	rs2583990_GG - rs356224_GG
+3516	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3517	Healthy Control	rs2583990_GG - rs356224_GG
+3518	Healthy Control	rs2583990_AG - rs356224_GG
+3519	Healthy Control	rs2583990_GG - rs356224_AA
+3521	Healthy Control	rs2583990_AG - rs356224_GG
+3522	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3523	Healthy Control	rs2583990_GG - rs356224_GG
+3525	Healthy Control	rs2583990_GG - rs356224_AG
+3526	Healthy Control	rs2583990_GG - rs356224_AG
+3527	Healthy Control	rs2583990_AG - rs356224_GG
+3528	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3530	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3532	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3540	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3541	Healthy Control	rs2583990_GG - rs356224_AG
+3542	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3543	Healthy Control	rs2583990_GG - rs356224_GG
+3544	Healthy Control	rs2583990_GG - rs356224_AG
+3551	Healthy Control	rs2583990_GG - rs356224_GG
+3552	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3554	Healthy Control	rs2583990_AG - rs356224_GG
+3555	Healthy Control	rs2583990_GG - rs356224_GG
+3557	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3563	Healthy Control	rs2583990_AA - rs356224_GG
+3564	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3565	Healthy Control	rs2583990_GG - rs356224_AG
+3567	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3569	Healthy Control	rs2583990_GG - rs356224_GG
+3570	Healthy Control	rs2583990_AA - rs356224_GG
+3571	Healthy Control	rs2583990_GG - rs356224_AG
+3572	Healthy Control	rs2583990_AG - rs356224_AG
+3575	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3577	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3584	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3585	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3586	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3587	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3588	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3591	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3592	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3593	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3600	Healthy Control	rs2583990_GG - rs356224_GG
+3601	Parkinson's Disease	rs2583990_AA - rs356224_GG
+3603	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3607	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3611	Healthy Control	rs2583990_GG - rs356224_AG
+3612	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3613	Healthy Control	rs2583990_AG - rs356224_GG
+3614	Healthy Control	rs2583990_AG - rs356224_AG
+3615	Healthy Control	rs2583990_AG - rs356224_AG
+3619	Healthy Control	rs2583990_GG - rs356224_AG
+3620	Healthy Control	rs2583990_AG - rs356224_AG
+3622	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3624	Healthy Control	rs2583990_GG - rs356224_AG
+3629	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3635	Healthy Control	rs2583990_GG - rs356224_AG
+3636	Healthy Control	rs2583990_AG - rs356224_GG
+3637	Healthy Control	rs2583990_GG - rs356224_AG
+3638	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3651	Healthy Control	rs2583990_GG - rs356224_AA
+3654	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3656	Healthy Control	rs2583990_GG - rs356224_GG
+3658	Healthy Control	rs2583990_GG - rs356224_GG
+3662	Healthy Control	rs2583990_GG - rs356224_AG
+3664	Parkinson's Disease	rs2583990_AA - rs356224_AG
+3666	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3668	Healthy Control	rs2583990_GG - rs356224_AA
+3701	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3704	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3709	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3750	Healthy Control	rs2583990_AG - rs356224_AG
+3752	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3754	Healthy Control	rs2583990_AG - rs356224_GG
+3756	Healthy Control	rs2583990_AG - rs356224_GG
+3758	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3759	Healthy Control	rs2583990_GG - rs356224_AG
+3762	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3765	Healthy Control	rs2583990_GG - rs356224_AG
+3767	Healthy Control	rs2583990_GG - rs356224_GG
+3768	Healthy Control	rs2583990_AG - rs356224_AG
+3769	Healthy Control	rs2583990_AG - rs356224_GG
+3770	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3772	Healthy Control	rs2583990_GG - rs356224_GG
+3773	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3775	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3777	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3778	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3779	Healthy Control	rs2583990_AG - rs356224_GG
+3780	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3781	Parkinson's Disease	rs2583990_AG - rs356224_AA
+3785	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3787	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3789	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3793	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3794	Healthy Control	rs2583990_GG - rs356224_AA
+3795	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3796	Healthy Control	rs2583990_GG - rs356224_AG
+3800	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3803	Healthy Control	rs2583990_GG - rs356224_AG
+3804	Healthy Control	rs2583990_AG - rs356224_AG
+3806	Healthy Control	rs2583990_AG - rs356224_GG
+3807	Healthy Control	rs2583990_GG - rs356224_GG
+3808	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3809	Healthy Control	rs2583990_GG - rs356224_GG
+3811	Healthy Control	rs2583990_GG - rs356224_GG
+3812	Healthy Control	rs2583990_GG - rs356224_AG
+3813	Healthy Control	rs2583990_GG - rs356224_AG
+3814	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3815	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3816	Healthy Control	rs2583990_GG - rs356224_AG
+3819	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3822	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3823	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3825	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3826	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3829	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3830	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3831	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3832	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3835	Parkinson's Disease	rs2583990_AA - rs356224_GG
+3838	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3850	Healthy Control	rs2583990_AG - rs356224_GG
+3851	Healthy Control	rs2583990_GG - rs356224_GG
+3852	Healthy Control	rs2583990_GG - rs356224_AG
+3853	Healthy Control	rs2583990_AG - rs356224_GG
+3854	Healthy Control	rs2583990_GG - rs356224_GG
+3855	Healthy Control	rs2583990_AG - rs356224_GG
+3856	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3857	Healthy Control	rs2583990_GG - rs356224_AG
+3859	Healthy Control	rs2583990_GG - rs356224_AG
+3869	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3900	Parkinson's Disease	rs2583990_AG - rs356224_GG
+3901	Healthy Control	rs2583990_GG - rs356224_AG
+3907	Healthy Control	rs2583990_AG - rs356224_GG
+3908	Healthy Control	rs2583990_AG - rs356224_GG
+3910	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3911	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3914	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3917	Healthy Control	rs2583990_AG - rs356224_GG
+3950	Healthy Control	rs2583990_GG - rs356224_AG
+3951	Parkinson's Disease	rs2583990_GG - rs356224_AA
+3952	Healthy Control	rs2583990_GG - rs356224_GG
+3953	Parkinson's Disease	rs2583990_AG - rs356224_AG
+3954	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3955	Healthy Control	rs2583990_GG - rs356224_AG
+3959	Healthy Control	rs2583990_GG - rs356224_GG
+3960	Parkinson's Disease	rs2583990_GG - rs356224_AG
+3961	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3964	Parkinson's Disease	rs2583990_GG - rs356224_GG
+3965	Healthy Control	rs2583990_AG - rs356224_GG
+3966	Healthy Control	rs2583990_AG - rs356224_GG
+3967	Healthy Control	rs2583990_GG - rs356224_GG
+3969	Healthy Control	rs2583990_AG - rs356224_AG
+4001	Parkinson's Disease	rs2583990_GG - rs356224_AA
+40012	Parkinson's Disease	rs2583990_AG - rs356224_AG
+4004	Healthy Control	rs2583990_GG - rs356224_GG
+4009	Healthy Control	rs2583990_GG - rs356224_GG
+4010	Healthy Control	rs2583990_AG - rs356224_AG
+4011	Parkinson's Disease	rs2583990_GG - rs356224_AG
+4012	Parkinson's Disease	rs2583990_AG - rs356224_GG
+40163	Parkinson's Disease	rs2583990_AA - rs356224_AG
+4018	Healthy Control	rs2583990_AG - rs356224_GG
+4019	Parkinson's Disease	rs2583990_GG - rs356224_AG
+4022	Parkinson's Disease	rs2583990_AG - rs356224_AA
+4024	Parkinson's Disease	rs2583990_AG - rs356224_AA
+4025	Parkinson's Disease	rs2583990_AG - rs356224_GG
+4027	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40273	Parkinson's Disease	rs2583990_GG - rs356224_AG
+4029	Parkinson's Disease	rs2583990_GG - rs356224_AA
+4030	Parkinson's Disease	rs2583990_AG - rs356224_AG
+4032	Healthy Control	rs2583990_GG - rs356224_GG
+4033	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40338	Parkinson's Disease	rs2583990_AG - rs356224_AG
+4034	Parkinson's Disease	rs2583990_GG - rs356224_AA
+4035	Parkinson's Disease	rs2583990_AG - rs356224_GG
+40360	Prodromal	rs2583990_AG - rs356224_AG
+40366	Parkinson's Disease	rs2583990_GG - rs356224_AG
+4037	Parkinson's Disease	rs2583990_AG - rs356224_GG
+40451	Prodromal	rs2583990_GG - rs356224_AA
+4051	Parkinson's Disease	rs2583990_GG - rs356224_GG
+4052	Parkinson's Disease	rs2583990_GG - rs356224_GG
+40520	Prodromal	rs2583990_GG - rs356224_GG
+4054	Parkinson's Disease	rs2583990_GG - rs356224_AG
+4055	Parkinson's Disease	rs2583990_AG - rs356224_GG
+40553	Parkinson's Disease	rs2583990_AG - rs356224_GG
+40555	Parkinson's Disease	rs2583990_AG - rs356224_GG
+40558	Parkinson's Disease	rs2583990_GG - rs356224_AA
+4056	Parkinson's Disease	rs2583990_AG - rs356224_GG
+40560	Parkinson's Disease	rs2583990_AG - rs356224_GG
+4057	Parkinson's Disease	rs2583990_GG - rs356224_AA
+40578	Parkinson's Disease	rs2583990_GG - rs356224_GG
+40585	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40586	Parkinson's Disease	rs2583990_AA - rs356224_GG
+40587	Prodromal	rs2583990_AA - rs356224_GG
+4059	Parkinson's Disease	rs2583990_AG - rs356224_GG
+40619	Prodromal	rs2583990_GG - rs356224_AG
+40621	Prodromal	rs2583990_GG - rs356224_AG
+4067	Healthy Control	rs2583990_GG - rs356224_AG
+40671	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40690	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40691	Parkinson's Disease	rs2583990_GG - rs356224_GG
+40692	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40693	Parkinson's Disease	rs2583990_GG - rs356224_GG
+40694	Parkinson's Disease	rs2583990_AG - rs356224_AG
+40702	Parkinson's Disease	rs2583990_GG - rs356224_GG
+40703	Parkinson's Disease	rs2583990_AG - rs356224_GG
+40704	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40707	Parkinson's Disease	rs2583990_AG - rs356224_GG
+40709	Parkinson's Disease	rs2583990_GG - rs356224_GG
+4071	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40713	Parkinson's Disease	rs2583990_AA - rs356224_GG
+40714	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40725	Prodromal	rs2583990_GG - rs356224_AG
+40726	Prodromal	rs2583990_GG - rs356224_AG
+4073	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40730	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40731	Parkinson's Disease	rs2583990_AG - rs356224_GG
+40733	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40735	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40737	Prodromal	rs2583990_AG - rs356224_GG
+4074	Parkinson's Disease	rs2583990_GG - rs356224_GG
+40754	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40755	Parkinson's Disease	rs2583990_GG - rs356224_GG
+40756	Parkinson's Disease	rs2583990_GG - rs356224_GG
+40757	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40758	Prodromal	rs2583990_GG - rs356224_GG
+40759	Prodromal	rs2583990_GG - rs356224_GG
+40760	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40761	Prodromal	rs2583990_GG - rs356224_AG
+40763	Parkinson's Disease	rs2583990_GG - rs356224_GG
+40769	Parkinson's Disease	rs2583990_GG - rs356224_GG
+4077	Parkinson's Disease	rs2583990_AG - rs356224_AG
+40771	Parkinson's Disease	rs2583990_GG - rs356224_GG
+40772	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40773	Prodromal	rs2583990_AG - rs356224_GG
+40774	Parkinson's Disease	rs2583990_AG - rs356224_GG
+40775	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40776	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40777	Parkinson's Disease	rs2583990_AG - rs356224_AG
+40778	Parkinson's Disease	rs2583990_GG - rs356224_GG
+40779	Parkinson's Disease	rs2583990_GG - rs356224_AG
+40781	Parkinson's Disease	rs2583990_AA - rs356224_AG
+4079	Healthy Control	rs2583990_AG - rs356224_GG
+40800	Parkinson's Disease	rs2583990_AG - rs356224_AA
+40806	Parkinson's Disease	rs2583990_AG - rs356224_GG
+40816	Parkinson's Disease	rs2583990_GG - rs356224_GG
+4085	Healthy Control	rs2583990_AG - rs356224_GG
+40882	Parkinson's Disease	rs2583990_GG - rs356224_GG
+4090	Healthy Control	rs2583990_AG - rs356224_AG
+4091	Parkinson's Disease	rs2583990_AG - rs356224_GG
+40916	Parkinson's Disease	rs2583990_GG - rs356224_GG
+4096	Parkinson's Disease	rs2583990_GG - rs356224_AG
+4098	Parkinson's Disease	rs2583990_GG - rs356224_GG
+4099	Parkinson's Disease	rs2583990_AG - rs356224_AG
+4100	Healthy Control	rs2583990_AG - rs356224_GG
+4101	Parkinson's Disease	rs2583990_AA - rs356224_GG
+4102	Parkinson's Disease	rs2583990_AG - rs356224_AG
+4103	Parkinson's Disease	rs2583990_AG - rs356224_AG
+4104	Healthy Control	rs2583990_AG - rs356224_GG
+4105	Healthy Control	rs2583990_GG - rs356224_AG
+4106	Parkinson's Disease	rs2583990_GG - rs356224_AG
+4108	Parkinson's Disease	rs2583990_GG - rs356224_AG
+4111	Parkinson's Disease	rs2583990_GG - rs356224_AG
+4112	Parkinson's Disease	rs2583990_GG - rs356224_GG
+4113	Parkinson's Disease	rs2583990_GG - rs356224_GG
+4115	Parkinson's Disease	rs2583990_GG - rs356224_AA
+4116	Healthy Control	rs2583990_AG - rs356224_GG
+4117	Parkinson's Disease	rs2583990_GG - rs356224_AG
+41172	Parkinson's Disease	rs2583990_GG - rs356224_AG
+4118	Healthy Control	rs2583990_AG - rs356224_AA
+41184	Parkinson's Disease	rs2583990_AG - rs356224_AG
+4123	Parkinson's Disease	rs2583990_GG - rs356224_GG
+4125	Parkinson's Disease	rs2583990_AG - rs356224_GG
+4126	Parkinson's Disease	rs2583990_AG - rs356224_AG
+41280	Parkinson's Disease	rs2583990_AG - rs356224_AA
+41281	Parkinson's Disease	rs2583990_AA - rs356224_GG
+41282	Parkinson's Disease	rs2583990_GG - rs356224_AA
+41283	Prodromal	rs2583990_AG - rs356224_AG
+41285	Parkinson's Disease	rs2583990_GG - rs356224_AG
+41286	Prodromal	rs2583990_GG - rs356224_GG
+41287	Parkinson's Disease	rs2583990_GG - rs356224_AG
+41288	Parkinson's Disease	rs2583990_GG - rs356224_AG
+41289	Parkinson's Disease	rs2583990_AG - rs356224_AG
+41290	Prodromal	rs2583990_AG - rs356224_AG
+41291	Parkinson's Disease	rs2583990_AG - rs356224_AG
+41292	Prodromal	rs2583990_AG - rs356224_GG
+41293	Parkinson's Disease	rs2583990_GG - rs356224_AG
+41294	Parkinson's Disease	rs2583990_AA - rs356224_GG
+41295	Parkinson's Disease	rs2583990_GG - rs356224_AG
+41296	Prodromal	rs2583990_AG - rs356224_GG
+41297	Prodromal	rs2583990_GG - rs356224_AG
+41299	Parkinson's Disease	rs2583990_GG - rs356224_GG
+41305	Parkinson's Disease	rs2583990_GG - rs356224_AG
+41307	Prodromal	rs2583990_AG - rs356224_AG
+41342	Prodromal	rs2583990_AG - rs356224_AG
+41343	Prodromal	rs2583990_AG - rs356224_AG
+41356	Parkinson's Disease	rs2583990_GG - rs356224_AG
+41364	Prodromal	rs2583990_GG - rs356224_A*
+41375	Parkinson's Disease	rs2583990_AG - rs356224_AG
+41380	Parkinson's Disease	rs2583990_AG - rs356224_GG
+41382	Parkinson's Disease	rs2583990_AG - rs356224_GG
+41384	Parkinson's Disease	rs2583990_AG - rs356224_AG
+4139	Healthy Control	rs2583990_GG - rs356224_GG
+41399	Parkinson's Disease	rs2583990_GG - rs356224_GG
+41400	Parkinson's Disease	rs2583990_AG - rs356224_AG
+41401	Parkinson's Disease	rs2583990_GG - rs356224_GG
+41405	Parkinson's Disease	rs2583990_AG - rs356224_AG
+41410	Parkinson's Disease	rs2583990_GG - rs356224_AG
+41411	Parkinson's Disease	rs2583990_GG - rs356224_AG
+41412	Parkinson's Disease	rs2583990_AG - rs356224_GG
+41420	Parkinson's Disease	rs2583990_GG - rs356224_GG
+41430	Parkinson's Disease	rs2583990_GG - rs356224_AG
+41432	Parkinson's Disease	rs2583990_AG - rs356224_GG
+41438	Parkinson's Disease	rs2583990_GG - rs356224_GG
+41471	Prodromal	rs2583990_AG - rs356224_GG
+41473	Prodromal	rs2583990_AG - rs356224_AG
+41486	Parkinson's Disease	rs2583990_GG - rs356224_AG
+41488	Parkinson's Disease	rs2583990_AA - rs356224_GG
+41508	Parkinson's Disease	rs2583990_GG - rs356224_AA
+41519	Parkinson's Disease	rs2583990_GG - rs356224_GG
+41521	Parkinson's Disease	rs2583990_GG - rs356224_GG
+41522	Parkinson's Disease	rs2583990_GG - rs356224_AG
+41523	Prodromal	rs2583990_GG - rs356224_GG
+41526	Prodromal	rs2583990_GG - rs356224_AG
+41529	Prodromal	rs2583990_GG - rs356224_GG
+41560	Prodromal	rs2583990_AG - rs356224_GG
+41562	Prodromal	rs2583990_AG - rs356224_GG
+41568	Parkinson's Disease	rs2583990_AA - rs356224_GG
+41578	Parkinson's Disease	rs2583990_GG - rs356224_GG
+41664	Parkinson's Disease	rs2583990_GG - rs356224_GG
+41749	Parkinson's Disease	rs2583990_AG - rs356224_AG
+41767	Parkinson's Disease	rs2583990_AG - rs356224_AG
+41801	Parkinson's Disease	rs2583990_AG - rs356224_AG
+41829	Parkinson's Disease	rs2583990_AA - rs356224_GG
+41854	Parkinson's Disease	rs2583990_GG - rs356224_GG
+41886	Parkinson's Disease	rs2583990_AG - rs356224_AG
+41967	Parkinson's Disease	rs2583990_AG - rs356224_GG
+41984	Prodromal	rs2583990_AG - rs356224_AG
+41985	Parkinson's Disease	rs2583990_AG - rs356224_GG
+41989	Parkinson's Disease	rs2583990_GG - rs356224_AG
+41990	Prodromal	rs2583990_GG - rs356224_AG
+41992	Prodromal	rs2583990_AG - rs356224_AG
+41993	Prodromal	rs2583990_GG - rs356224_GG
+42000	Prodromal	rs2583990_AG - rs356224_AG
+42001	Prodromal	rs2583990_AG - rs356224_GG
+42006	Prodromal	rs2583990_AG - rs356224_GG
+42009	Parkinson's Disease	rs2583990_AG - rs356224_AG
+42011	Prodromal	rs2583990_GG - rs356224_AG
+42012	Prodromal	rs2583990_GG - rs356224_GG
+42014	Parkinson's Disease	rs2583990_GG - rs356224_GG
+42072	Prodromal	rs2583990_GG - rs356224_AG
+42079	Parkinson's Disease	rs2583990_AA - rs356224_GG
+42121	Prodromal	rs2583990_AG - rs356224_GG
+42123	Prodromal	rs2583990_AG - rs356224_GG
+42126	Prodromal	rs2583990_GG - rs356224_GG
+42128	Prodromal	rs2583990_AG - rs356224_AG
+42133	Prodromal	rs2583990_GG - rs356224_GG
+42134	Prodromal	rs2583990_AG - rs356224_GG
+42146	Prodromal	rs2583990_AG - rs356224_GG
+42161	Prodromal	rs2583990_GG - rs356224_AG
+42164	Parkinson's Disease	rs2583990_GG - rs356224_GG
+42168	Prodromal	rs2583990_AG - rs356224_GG
+42171	Parkinson's Disease	rs2583990_AG - rs356224_AG
+42172	Parkinson's Disease	rs2583990_GG - rs356224_AG
+42240	Prodromal	rs2583990_GG - rs356224_AG
+42263	Prodromal	rs2583990_GG - rs356224_GG
+42264	Parkinson's Disease	rs2583990_AG - rs356224_GG
+42293	Parkinson's Disease	rs2583990_GG - rs356224_GG
+42306	Prodromal	rs2583990_GG - rs356224_GG
+42308	Parkinson's Disease	rs2583990_GG - rs356224_GG
+42346	Parkinson's Disease	rs2583990_AA - rs356224_GG
+42351	Parkinson's Disease	rs2583990_AG - rs356224_GG
+42357	Parkinson's Disease	rs2583990_AG - rs356224_GG
+42378	Parkinson's Disease	rs2583990_AG - rs356224_GG
+42379	Parkinson's Disease	rs2583990_AA - rs356224_GG
+42418	Parkinson's Disease	rs2583990_AA - rs356224_GG
+42422	Prodromal	rs2583990_GG - rs356224_GG
+42426	Prodromal	rs2583990_GG - rs356224_GG
+42429	Parkinson's Disease	rs2583990_GG - rs356224_AG
+42438	Parkinson's Disease	rs2583990_GG - rs356224_AA
+42443	Prodromal	rs2583990_GG - rs356224_AG
+42444	Prodromal	rs2583990_AG - rs356224_GG
+42445	Prodromal	rs2583990_AA - rs356224_GG
+42446	Prodromal	rs2583990_AG - rs356224_AG
+42447	Parkinson's Disease	rs2583990_AG - rs356224_GG
+42448	Parkinson's Disease	rs2583990_AA - rs356224_GG
+42450	Prodromal	rs2583990_AA - rs356224_GG
+42451	Parkinson's Disease	rs2583990_GG - rs356224_AA
+42452	Parkinson's Disease	rs2583990_AG - rs356224_GG
+42453	Parkinson's Disease	rs2583990_AA - rs356224_GG
+42454	Parkinson's Disease	rs2583990_AA - rs356224_GG
+50009	Prodromal	rs2583990_AG - rs356224_GG
+50028	Parkinson's Disease	rs2583990_AA - rs356224_GG
+50044	Parkinson's Disease	rs2583990_AG - rs356224_GG
+50081	Prodromal	rs2583990_GG - rs356224_AG
+50086	Parkinson's Disease	rs2583990_GG - rs356224_AG
+50088	Parkinson's Disease	rs2583990_AG - rs356224_GG
+50110	Prodromal	rs2583990_AG - rs356224_AG
+50143	Prodromal	rs2583990_GG - rs356224_AA
+50157	Parkinson's Disease	rs2583990_AG - rs356224_AG
+50172	Prodromal	rs2583990_AA - rs356224_AG
+50175	Parkinson's Disease	rs2583990_GG - rs356224_GG
+50184	Prodromal	rs2583990_AG - rs356224_AG
+50192	Parkinson's Disease	rs2583990_AG - rs356224_GG
+50195	Parkinson's Disease	rs2583990_GG - rs356224_AG
+50219	Prodromal	rs2583990_AA - rs356224_GG
+50222	Prodromal	rs2583990_GG - rs356224_AA
+50225	Prodromal	rs2583990_GG - rs356224_AG
+50275	Prodromal	rs2583990_GG - rs356224_GG
+50319	Parkinson's Disease	rs2583990_AA - rs356224_GG
+50328	Prodromal	rs2583990_AG - rs356224_AG
+50379	Prodromal	rs2583990_AA - rs356224_AG
+50451	Prodromal	rs2583990_AG - rs356224_AG
+50455	Prodromal	rs2583990_AG - rs356224_GG
+50462	Prodromal	rs2583990_AG - rs356224_GG
+50485	Parkinson's Disease	rs2583990_GG - rs356224_AA
+50509	Parkinson's Disease	rs2583990_AG - rs356224_AG
+50557	Prodromal	rs2583990_AG - rs356224_AG
+50572	Prodromal	rs2583990_AG - rs356224_A*
+50621	Parkinson's Disease	rs2583990_AG - rs356224_GG
+50670	Prodromal	rs2583990_GG - rs356224_AG
+50746	Parkinson's Disease	rs2583990_AG - rs356224_GG
+50829	Parkinson's Disease	rs2583990_GG - rs356224_AA
+50860	Parkinson's Disease	rs2583990_GG - rs356224_AG
+50901	Parkinson's Disease	rs2583990_AG - rs356224_GG
+50961	Prodromal	rs2583990_AG - rs356224_AG
+51186	Parkinson's Disease	rs2583990_GG - rs356224_GG
+51247	Prodromal	rs2583990_GG - rs356224_AA
+51252	Parkinson's Disease	rs2583990_AA - rs356224_AG
+51302	Prodromal	rs2583990_AG - rs356224_AG
+51311	Prodromal	rs2583990_AG - rs356224_AG
+51330	Prodromal	rs2583990_GG - rs356224_AA
+51392	Prodromal	rs2583990_GG - rs356224_AG
+51440	Parkinson's Disease	rs2583990_GG - rs356224_GG
+51441	Prodromal	rs2583990_AG - rs356224_AG
+51518	Parkinson's Disease	rs2583990_GG - rs356224_A*
+51540	Prodromal	rs2583990_AA - rs356224_AG
+51544	Parkinson's Disease	rs2583990_AG - rs356224_GG
+51551	Parkinson's Disease	rs2583990_AG - rs356224_AG
+51557	Prodromal	rs2583990_AG - rs356224_GG
+51625	Parkinson's Disease	rs2583990_AG - rs356224_AG
+51632	Parkinson's Disease	rs2583990_AG - rs356224_GG
+51675	Prodromal	rs2583990_AG - rs356224_AG
+51689	Prodromal	rs2583990_AG - rs356224_GG
+51714	Prodromal	rs2583990_GG - rs356224_GG
+51731	Parkinson's Disease	rs2583990_AG - rs356224_GG
+51746	Prodromal	rs2583990_GG - rs356224_A*
+51755	Prodromal	rs2583990_AG - rs356224_GG
+51782	Prodromal	rs2583990_GG - rs356224_GG
+51800	Parkinson's Disease	rs2583990_GG - rs356224_AA
+51844	Parkinson's Disease	rs2583990_AG - rs356224_AA
+51867	Prodromal	rs2583990_AA - rs356224_GG
+51971	Parkinson's Disease	rs2583990_AG - rs356224_AG
+52006	Prodromal	rs2583990_AG - rs356224_GG
+52062	Parkinson's Disease	rs2583990_AG - rs356224_GG
+52128	Parkinson's Disease	rs2583990_AG - rs356224_GG
+52146	Parkinson's Disease	rs2583990_GG - rs356224_GG
+52200	Prodromal	rs2583990_AG - rs356224_GG
+52215	Prodromal	rs2583990_GG - rs356224_AG
+52258	Prodromal	rs2583990_AA - rs356224_GG
+52274	Prodromal	rs2583990_GG - rs356224_GG
+52275	Prodromal	rs2583990_AG - rs356224_AG
+52276	Prodromal	rs2583990_AA - rs356224_GG
+52278	Prodromal	rs2583990_AG - rs356224_AG
+52353	Prodromal	rs2583990_AA - rs356224_AG
+52355	Prodromal	rs2583990_GG - rs356224_AG
+52362	Prodromal	rs2583990_GG - rs356224_AG
+52400	Prodromal	rs2583990_AG - rs356224_GG
+52414	Prodromal	rs2583990_GG - rs356224_AG
+52432	Prodromal	rs2583990_AA - rs356224_GG
+52515	Prodromal	rs2583990_AG - rs356224_AG
+52517	Prodromal	rs2583990_GG - rs356224_AA
+52518	Prodromal	rs2583990_GG - rs356224_GG
+52523	Prodromal	rs2583990_AG - rs356224_AG
+52524	Prodromal	rs2583990_GG - rs356224_AG
+52530	Parkinson's Disease	rs2583990_AG - rs356224_AA
+52543	Prodromal	rs2583990_AG - rs356224_AG
+52563	Prodromal	rs2583990_AG - rs356224_AG
+52587	Prodromal	rs2583990_AG - rs356224_GG
+52604	Prodromal	rs2583990_GG - rs356224_AG
+52634	Prodromal	rs2583990_GG - rs356224_A*
+52678	Parkinson's Disease	rs2583990_GG - rs356224_AG
+52748	Prodromal	rs2583990_GG - rs356224_AA
+52752	Prodromal	rs2583990_AA - rs356224_AG
+52783	Prodromal	rs2583990_GG - rs356224_AA
+52787	Prodromal	rs2583990_GG - rs356224_AA
+52828	Prodromal	rs2583990_GG - rs356224_AG
+52854	Prodromal	rs2583990_AG - rs356224_GG
+52871	Prodromal	rs2583990_GG - rs356224_GG
+52872	Prodromal	rs2583990_AG - rs356224_AG
+52874	Prodromal	rs2583990_GG - rs356224_AG
+52888	Prodromal	rs2583990_GG - rs356224_GG
+52927	Prodromal	rs2583990_AG - rs356224_GG
+52932	Prodromal	rs2583990_GG - rs356224_AG
+52948	Prodromal	rs2583990_AG - rs356224_GG
+52982	Prodromal	rs2583990_GG - rs356224_GG
+53033	Prodromal	rs2583990_GG - rs356224_AG
+53044	Prodromal	rs2583990_AG - rs356224_AG
+53054	Prodromal	rs2583990_GG - rs356224_AG
+53113	Prodromal	rs2583990_GG - rs356224_AG
+53308	Prodromal	rs2583990_AG - rs356224_GG
+53310	Prodromal	rs2583990_GG - rs356224_GG
+53339	Parkinson's Disease	rs2583990_GG - rs356224_AG
+53340	Prodromal	rs2583990_GG - rs356224_AG
+53518	Prodromal	rs2583990_GG - rs356224_AG
+53519	Prodromal	rs2583990_GG - rs356224_A*
+53595	Parkinson's Disease	rs2583990_GG - rs356224_AG
+53600	Parkinson's Disease	rs2583990_GG - rs356224_AG
+53677	Prodromal	rs2583990_GG - rs356224_GG
+53866	Prodromal	rs2583990_GG - rs356224_AA
+53925	Prodromal	rs2583990_AG - rs356224_GG
+53988	Parkinson's Disease	rs2583990_GG - rs356224_GG
+54048	Prodromal	rs2583990_AG - rs356224_AG
+54110	Prodromal	rs2583990_GG - rs356224_AG
+54144	Parkinson's Disease	rs2583990_AG - rs356224_AA
+54156	Prodromal	rs2583990_AG - rs356224_GG
+54166	Prodromal	rs2583990_GG - rs356224_AA
+54197	Parkinson's Disease	rs2583990_AG - rs356224_AG
+54198	Prodromal	rs2583990_AG - rs356224_GG
+54215	Prodromal	rs2583990_AG - rs356224_GG
+54262	Prodromal	rs2583990_AG - rs356224_GG
+54265	Parkinson's Disease	rs2583990_AG - rs356224_GG
+54266	Prodromal	rs2583990_AG - rs356224_AG
+54309	Prodromal	rs2583990_GG - rs356224_AA
+54364	Prodromal	rs2583990_AG - rs356224_AG
+54373	Prodromal	rs2583990_AG - rs356224_GG
+54446	Prodromal	rs2583990_AG - rs356224_GG
+54461	Prodromal	rs2583990_GG - rs356224_AG
+54695	Parkinson's Disease	rs2583990_AG - rs356224_GG
+54908	Prodromal	rs2583990_AG - rs356224_A*
+54915	Prodromal	rs2583990_GG - rs356224_AG
+54937	Prodromal	rs2583990_AA - rs356224_GG
+54991	Prodromal	rs2583990_GG - rs356224_AG
+55094	Prodromal	rs2583990_GG - rs356224_AG
+55098	Prodromal	rs2583990_AG - rs356224_A*
+55124	Parkinson's Disease	rs2583990_AG - rs356224_GG
+55151	Prodromal	rs2583990_AG - rs356224_GG
+55251	Parkinson's Disease	rs2583990_GG - rs356224_AG
+55282	Prodromal	rs2583990_AG - rs356224_AG
+55349	Prodromal	rs2583990_GG - rs356224_GG
+55380	Prodromal	rs2583990_GG - rs356224_GG
+55395	Parkinson's Disease	rs2583990_AG - rs356224_AG
+55441	Parkinson's Disease	rs2583990_GG - rs356224_GG
+55468	Parkinson's Disease	rs2583990_AG - rs356224_AA
+55557	Prodromal	rs2583990_AG - rs356224_GG
+55577	Prodromal	rs2583990_AG - rs356224_GG
+55822	Prodromal	rs2583990_GG - rs356224_GG
+55842	Prodromal	rs2583990_AA - rs356224_GG
+55875	Parkinson's Disease	rs2583990_AG - rs356224_GG
+56048	Prodromal	rs2583990_AG - rs356224_AG
+56126	Prodromal	rs2583990_AG - rs356224_AG
+56169	Prodromal	rs2583990_AG - rs356224_AG
+56175	Prodromal	rs2583990_AA - rs356224_GG
+56184	Prodromal	rs2583990_GG - rs356224_AG
+56435	Parkinson's Disease	rs2583990_AG - rs356224_GG
+56457	Prodromal	rs2583990_AG - rs356224_GG
+56491	Prodromal	rs2583990_AG - rs356224_GG
+56492	Prodromal	rs2583990_AA - rs356224_AG
+56558	Parkinson's Disease	rs2583990_GG - rs356224_AG
+56571	Prodromal	rs2583990_GG - rs356224_AA
+56582	Prodromal	rs2583990_AG - rs356224_GG
+56593	Prodromal	rs2583990_AG - rs356224_GG
+56680	Prodromal	rs2583990_GG - rs356224_AG
+56706	Prodromal	rs2583990_AA - rs356224_GG
+56744	Parkinson's Disease	rs2583990_AG - rs356224_AA
+56761	Parkinson's Disease	rs2583990_AA - rs356224_GG
+56779	Prodromal	rs2583990_AA - rs356224_GG
+56789	Prodromal	rs2583990_AG - rs356224_AG
+56807	Prodromal	rs2583990_GG - rs356224_AG
+56954	Prodromal	rs2583990_AG - rs356224_GG
+57037	Parkinson's Disease	rs2583990_GG - rs356224_AG
+57090	Parkinson's Disease	rs2583990_GG - rs356224_GG
+57127	Parkinson's Disease	rs2583990_AG - rs356224_GG
+57159	Prodromal	rs2583990_GG - rs356224_AG
+57170	Prodromal	rs2583990_AG - rs356224_GG
+57277	Prodromal	rs2583990_AG - rs356224_AG
+57292	Prodromal	rs2583990_GG - rs356224_GG
+57347	Prodromal	rs2583990_GG - rs356224_GG
+57447	Prodromal	rs2583990_GG - rs356224_AG
+57605	Prodromal	rs2583990_AG - rs356224_GG
+57670	Prodromal	rs2583990_GG - rs356224_AG
+57714	Prodromal	rs2583990_GG - rs356224_GG
+57738	Prodromal	rs2583990_AG - rs356224_GG
+57798	Parkinson's Disease	rs2583990_GG - rs356224_GG
+57887	Parkinson's Disease	rs2583990_GG - rs356224_GG
+57961	Prodromal	rs2583990_GG - rs356224_GG
+57965	Prodromal	rs2583990_GG - rs356224_GG
+58027	Prodromal	rs2583990_AG - rs356224_AG
+58030	Parkinson's Disease	rs2583990_AG - rs356224_A*
+58074	Prodromal	rs2583990_AG - rs356224_GG
+58099	Prodromal	rs2583990_GG - rs356224_AG
+58111	Prodromal	rs2583990_AG - rs356224_GG
+58138	Prodromal	rs2583990_AA - rs356224_GG
+58164	Prodromal	rs2583990_AG - rs356224_AG
+58182	Prodromal	rs2583990_GG - rs356224_GG
+58221	Prodromal	rs2583990_AG - rs356224_GG
+58224	Prodromal	rs2583990_AG - rs356224_AG
+58420	Parkinson's Disease	rs2583990_GG - rs356224_GG
+58431	Parkinson's Disease	rs2583990_GG - rs356224_AG
+58454	Parkinson's Disease	rs2583990_GG - rs356224_AA
+58510	Parkinson's Disease	rs2583990_AG - rs356224_GG
+58721	Prodromal	rs2583990_AG - rs356224_AG
+58843	Prodromal	rs2583990_GG - rs356224_AG
+58865	Prodromal	rs2583990_AA - rs356224_GG
+58990	Prodromal	rs2583990_AA - rs356224_GG
+59154	Prodromal	rs2583990_AG - rs356224_AG
+59174	Prodromal	rs2583990_GG - rs356224_AG
+59390	Prodromal	rs2583990_AG - rs356224_AG
+59398	Parkinson's Disease	rs2583990_GG - rs356224_AA
+59483	Prodromal	rs2583990_AA - rs356224_AA
+59614	Prodromal	rs2583990_GG - rs356224_AG
+60002	Prodromal	rs2583990_GG - rs356224_GG
+60003	Prodromal	rs2583990_AG - rs356224_GG
+60004	Prodromal	rs2583990_GG - rs356224_GG
+60006	Prodromal	rs2583990_GG - rs356224_GG
+60013	Prodromal	rs2583990_AG - rs356224_GG
+60015	Prodromal	rs2583990_AG - rs356224_GG
+60023	Prodromal	rs2583990_GG - rs356224_GG
+60024	Prodromal	rs2583990_GG - rs356224_GG
+60033	Prodromal	rs2583990_GG - rs356224_AG
+60035	Prodromal	rs2583990_GG - rs356224_AG
+60036	Prodromal	rs2583990_GG - rs356224_AG
+60043	Prodromal	rs2583990_AG - rs356224_AG
+60044	Prodromal	rs2583990_AG - rs356224_AG
+60045	Prodromal	rs2583990_GG - rs356224_GG
+60046	Prodromal	rs2583990_GG - rs356224_GG
+60048	Prodromal	rs2583990_AG - rs356224_GG
+60056	Prodromal	rs2583990_AG - rs356224_AG
+60057	Prodromal	rs2583990_AG - rs356224_AG
+60059	Prodromal	rs2583990_AG - rs356224_AG
+60060	Prodromal	rs2583990_AA - rs356224_GG
+60063	Prodromal	rs2583990_GG - rs356224_GG
+60065	Prodromal	rs2583990_AG - rs356224_AG
+60073	Prodromal	rs2583990_AG - rs356224_GG
+60074	Prodromal	rs2583990_GG - rs356224_GG
+60075	Prodromal	rs2583990_GG - rs356224_GG
+60091	Prodromal	rs2583990_AG - rs356224_AA
+60095	Prodromal	rs2583990_GG - rs356224_AG
+60096	Prodromal	rs2583990_GG - rs356224_GG
+60100	Prodromal	rs2583990_GG - rs356224_GG
+60101	Prodromal	rs2583990_GG - rs356224_AG
+60107	Prodromal	rs2583990_AG - rs356224_GG
+60108	Prodromal	rs2583990_AG - rs356224_AG
+60109	Prodromal	rs2583990_AG - rs356224_AG
+60118	Prodromal	rs2583990_GG - rs356224_AG
+60122	Prodromal	rs2583990_GG - rs356224_GG
+60148	Prodromal	rs2583990_GG - rs356224_GG
+60170	Prodromal	rs2583990_AG - rs356224_GG
+60171	Prodromal	rs2583990_AA - rs356224_GG
+65000	Prodromal	rs2583990_AG - rs356224_AG
+65002	Prodromal	rs2583990_AA - rs356224_GG
+65003	Prodromal	rs2583990_AG - rs356224_GG
+65004	Prodromal	rs2583990_GG - rs356224_AG
+85062	Prodromal	rs2583990_GG - rs356224_GG
+85236	Prodromal	rs2583990_GG - rs356224_AG
+85242	Prodromal	rs2583990_GG - rs356224_AA
+90456	Prodromal	rs2583990_GG - rs356224_AG
+91097	Prodromal	rs2583990_GG - rs356224_GG
+91837	Prodromal	rs2583990_GG - rs356224_AG
+92490	Prodromal	rs2583990_GG - rs356224_AG
+92834	Prodromal	rs2583990_AG - rs356224_GG
